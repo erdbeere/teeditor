@@ -1,0 +1,5 @@
+https://github.com/erdbeere/tml/tarball/master#egg=tml
+Jinja2==2.5.2
+Werkzeug==0.6.2
+Fabric==0.9.3
+SQLAlchemy==0.6.6
